@@ -191,3 +191,47 @@ section{
 
 
 /* -----------global-------- */
+
+/* ---------------corona------ */
+.onr {
+    text-align: center;
+    font-size: 40px;
+    padding-bottom: 50px;
+}
+.btm{
+    color: #9b23b9;
+}
+.corona{
+    display: flex;
+    width: 90%;
+}
+.corona-left{
+    width: 50%;
+    height: auto;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position-x: left;
+}
+.corona-left img{
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 80px;
+}
+.corona-right{
+    width: 50%;
+    padding-top: 200px;
+}
+.corona-right h2{
+    font-size: 30px;
+}
+.corona-right p{
+    padding-top: 40px;
+    padding-bottom: 30px;
+}
+footer p{
+    text-align: center;
+    font-size: 20px;
+}
+/* ---------------corona------ */
